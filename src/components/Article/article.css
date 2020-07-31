@@ -1,0 +1,36 @@
+.article {
+    padding: 10px 20px;
+    text-decoration: none;
+    border: 1px solid #c8c6c6;
+    width: 80vw;
+    margin: 10px auto;
+    cursor: pointer;
+}
+
+.article:hover {
+    border-color: #66fcf1;
+}
+
+.article-title {
+    color: #c8c6c6;
+}
+.article-title:hover {
+    text-decoration: underline;
+}
+
+.score {
+    padding-top: 10px;
+    color: #66fcf1;
+    text-align: end;
+}
+
+.score i {
+    color: #d33131;
+    padding-right: 5px;
+}
+
+.article-date {
+    text-align: right;
+    font-size: 12px;
+    padding-bottom: 5px;
+}
